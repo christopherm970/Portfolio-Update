@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Update/static/css/main.4b5f6231.chunk.css",
+    "main.js": "/Portfolio-Update/static/js/main.302c42be.chunk.js",
+    "main.js.map": "/Portfolio-Update/static/js/main.302c42be.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Update/static/js/runtime-main.23068812.js",
+    "runtime-main.js.map": "/Portfolio-Update/static/js/runtime-main.23068812.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Portfolio-Update/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ddad7584.chunk.js": "/Portfolio-Update/static/js/2.ddad7584.chunk.js",
+    "static/js/2.ddad7584.chunk.js.map": "/Portfolio-Update/static/js/2.ddad7584.chunk.js.map",
+    "index.html": "/Portfolio-Update/index.html",
+    "precache-manifest.cb8f0453b591decd5a5c049b2509bca7.js": "/Portfolio-Update/precache-manifest.cb8f0453b591decd5a5c049b2509bca7.js",
+    "service-worker.js": "/Portfolio-Update/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Portfolio-Update/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.4b5f6231.chunk.css.map": "/Portfolio-Update/static/css/main.4b5f6231.chunk.css.map",
+    "static/js/2.ddad7584.chunk.js.LICENSE.txt": "/Portfolio-Update/static/js/2.ddad7584.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23068812.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ddad7584.chunk.js",
+    "static/css/main.4b5f6231.chunk.css",
+    "static/js/main.302c42be.chunk.js"
+  ]
+}
